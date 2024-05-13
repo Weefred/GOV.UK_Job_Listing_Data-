@@ -41,6 +41,22 @@ The dataset contains job listings data from the UK government job portal, GOV.UK
 - **Handling Duplicates**: Data was checked for duplicate values, and none was found.
 
 - **Converting Date Format**. The posting_date and the closing_date columns which were originally in the (day-month-year) format ‘7-Nov-23’, was converted to the standardized format, (YYYY-MM-DD) ‘2023-11-07’ to make it suitable for analysis.
+  
+![image](https://github.com/Weefred/GOV.UK_Job_Listing_Data-/blob/main/pic%202.png) 
+
+![image](https://github.com/Weefred/GOV.UK_Job_Listing_Data-/blob/main/pic%201.png)
+
+- **Replaced Values**: Some unnecessary values were removed, and misspelt words were replaced with their correct forms.
+
+![image](https://github.com/Weefred/GOV.UK_Job_Listing_Data-/blob/main/pic%203.png)
+
+![image](https://github.com/Weefred/GOV.UK_Job_Listing_Data-/blob/main/pic%204.png)
+
+![image](https://github.com/Weefred/GOV.UK_Job_Listing_Data-/blob/main/pic%205.png)
+
+![image](https://github.com/Weefred/GOV.UK_Job_Listing_Data-/blob/main/pic%206.png)
+
+
 
 
 
